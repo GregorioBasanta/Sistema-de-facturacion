@@ -5,7 +5,7 @@ El sistema permite gestionar clientes y generar facturas con diferentes concepto
 
 ## 🚀 Tecnologías
 - **Lenguaje:** JavaScript (Node.js)
-- **Framework:** NestJS 
+- **Framework:** Express.js 
 - **Base de datos:** PostgreSQL (dockerizada)
 - **ORM recomendado:** Prisma ORM
 - **Contenedores:** Docker + Docker Compose
